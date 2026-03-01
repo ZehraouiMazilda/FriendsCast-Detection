@@ -1,0 +1,13 @@
+path: /content/friends_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: courteney_cox
+  1: david_schwimmer
+  2: jennifer_aniston
+  3: lisa_kudrow
+  4: matt_leblanc
+  5: matthew_perry
