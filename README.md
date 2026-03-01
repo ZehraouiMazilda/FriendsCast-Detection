@@ -181,8 +181,8 @@ model.val(data="friends.yaml", split="test")
 
 ## 👩‍💻 Author
 
-Mazilda  
-Master’s student in Intelligent Systems and Data Science  
+Maissa Ladjmi 
+Mazilda Zehraoui
 
 ---
 
