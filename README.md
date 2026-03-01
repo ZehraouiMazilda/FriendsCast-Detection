@@ -181,8 +181,8 @@ model.val(data="friends.yaml", split="test")
 
 ## 👩‍💻 Author
 
-Maissa Ladjmi 
-Mazilda Zehraoui
+__Maissa Ladjmi__ &
+__Mazilda Zehraoui__
 
 ---
 
